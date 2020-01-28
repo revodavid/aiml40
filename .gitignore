@@ -1,0 +1,6 @@
+outputs/
+dataset/clothing_data/
+model/
+logs/
+azureml-logs/
+temp/
