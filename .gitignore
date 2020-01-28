@@ -5,3 +5,4 @@ logs/
 azureml-logs/
 temp/
 notebooks/.ipynb_checkpoints/
+.azureml/
